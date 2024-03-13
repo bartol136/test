@@ -5,6 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Glowna</h1>
+    <h1>Zmieniona</h1>
 </body>
 </html>
